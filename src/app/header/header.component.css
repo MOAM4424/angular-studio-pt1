@@ -1,0 +1,12 @@
+h1{
+    border-style: groove;
+    border-color: gold;
+    border-left: black;
+    border-right: black;
+    text-align: center;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
